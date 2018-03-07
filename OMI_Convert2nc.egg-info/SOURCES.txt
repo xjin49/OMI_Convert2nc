@@ -1,9 +1,0 @@
-README.txt
-setup.py
-OMI_Convert2nc/qa4ecv_HCHO.py
-OMI_Convert2nc/qa4ecv_NO2.py
-OMI_Convert2nc.egg-info/PKG-INFO
-OMI_Convert2nc.egg-info/SOURCES.txt
-OMI_Convert2nc.egg-info/dependency_links.txt
-OMI_Convert2nc.egg-info/requires.txt
-OMI_Convert2nc.egg-info/top_level.txt
